@@ -4,7 +4,7 @@ UI Clone #17 - Vercel (Homepage)
 
 <p align="center"><a href="https://vercel.com">Vercel Homepage</a> UI clone for study purposes.</p>
 <p align="center">
-  This project had been made with the support of Rocketseat, through the <a href="https://www.youtube.com/watch?v=204ewU7NRO0&list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp&index=2">video</a>
+  This project had been made with the support of <a href="https://github.com/Rocketseat">Rocketseat</a>, through the <a href="https://www.youtube.com/watch?v=204ewU7NRO0&list=PL85ITvJ7FLohTZv9cC5-PrZ39Q3cugWqp&index=2">video</a>
 </p>
 
 <hr />
